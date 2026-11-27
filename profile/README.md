@@ -21,8 +21,8 @@ A dark fantasy action RPG where every oath has a price.
 | Project | Description |
 | --- | --- |
 | SpriteLab | Sprite editing, animation and asset processing. |
-| [MarkdownLab](https://github.com/Sealsworn/MarkdownLab) | A modern Markdown reader for Windows. |
-| NetworkingLab | Multiplayer networking development and testing. |
+| [MarkdownLab](https://github.com/Farga-Studios/MarkdownLab) | A modern Markdown reader for Windows. |
+| NetworkingLab | Private multiplayer networking research for SEALSWORN. |
 | Development Suite | Shared infrastructure and tools for game development. |
 
 ## Our Philosophy
