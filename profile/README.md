@@ -1,5 +1,9 @@
 <div align="center">
-  <h1>Farga Studios</h1>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Farga-Studios/.github/main/assets/brand/logotipo-blanco.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Farga-Studios/.github/main/assets/brand/logotipo-negro.svg">
+    <img alt="Farga Studios" src="https://raw.githubusercontent.com/Farga-Studios/.github/main/assets/brand/logotipo-negro.svg" width="240">
+  </picture>
   <p><strong>Forging games. Empowering creators.</strong></p>
   <p>Independent game development studio based in Valencia, Spain.</p>
 </div>
